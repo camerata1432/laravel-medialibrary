@@ -23,11 +23,11 @@
   ],
   "require": {
     "php" : "^7.0",
-    "illuminate/bus": "~5.*@dev",
-    "illuminate/console": "~5.*@dev",
-    "illuminate/database": "~5.*@dev",
-    "illuminate/support": "~5.*@dev",
-    "illuminate/pipeline": "~5.*@dev",
+    "illuminate/bus": "5.5.x-dev",
+    "illuminate/console": "5.5.x-dev",
+    "illuminate/database": "5.5.x-dev",
+    "illuminate/support": "5.5.x-dev",
+    "illuminate/pipeline": "5.5.x-dev",
     "spatie/pdf-to-image": "^1.2",
     "spatie/image": "^1.0.0",
     "spatie/temporary-directory": "^1.1"
